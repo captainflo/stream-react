@@ -1,6 +1,6 @@
 import React from 'react';
 
-cosnt StreamShow = () => {
+const StreamShow = () => {
     return (
         <div>StreamShow</div>
     )

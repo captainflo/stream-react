@@ -1,6 +1,6 @@
 import React from 'react';
 
-cosnt StreamList = () => {
+const StreamList = () => {
     return (
         <div>StreamList</div>
     )

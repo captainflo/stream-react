@@ -1,6 +1,6 @@
 import React from 'react';
 
-cosnt StreamDelete = () => {
+const StreamDelete = () => {
     return (
         <div>StreamDelete</div>
     )
